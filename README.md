@@ -1,6 +1,4 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
-
-# Project 2:  Kaggle Ames Housing  Data Analysis 
+# Project: Ames Housing  Price Prediction
 
 This is the second project of Data Science Immersive course in General Assembly's submitted by July 2021.
 
